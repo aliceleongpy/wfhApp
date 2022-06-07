@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745262605743",
+    "project_id": "wfh-application-f13f8",
+    "storage_bucket": "wfh-application-f13f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745262605743:android:5cda7ed62e54c0f268bb5a",
+        "android_client_info": {
+          "package_name": "com.example.wfhapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745262605743-i0i5emn8ji8jvefqm008dlko8h62duc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQCrjN_7xuSA85LivNWCzlVpD8wsD83sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745262605743-i0i5emn8ji8jvefqm008dlko8h62duc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
